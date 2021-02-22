@@ -1,0 +1,114 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    background-color: darkcyan;
+    
+}
+.heading
+{
+    color: crimson;
+    margin-bottom: 30px;
+    
+}
+.conatiner{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    
+    
+}
+
+.container h1
+{
+    background: black;
+    color: crimson;
+    font-size: 3em;
+    text-align: center;
+}
+.nav-bar h1
+{
+    color: darkcyan;
+        text-decoration: underline;
+}
+.nav-bar{
+    
+    
+    background-color: black;
+    color: darkcyan;
+    font-size: 2em;
+    text-align: center;
+    
+    
+}
+span{
+     color: darkcyan;
+    font-size: 2em;
+    text-align: center;
+    
+}
+#from-stn
+{
+    font-size: 2em
+}
+#to-stn
+{
+    font-size: 2em
+}
+#datepicker
+{
+    font-size: 2em;
+}
+
+#submit-btn
+{
+    font-size:2em;
+    border-radius: 45px;
+    background-color: darkgrey;
+    color: darkcyan;
+    width:375px;
+    height: 70px;
+}
+
+#submit-btn:hover
+{
+    
+    border-radius: 45px;
+    background-color: darkcyan;
+    color: crimson;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#back-btn
+{
+    font-size:2em;
+    border-radius: 45px;
+    background-color: darkgrey;
+    color: darkcyan;
+     width:375px;
+    height: 70px;
+}
+
+#back-btn:hover
+{
+    
+    border-radius: 45px;
+    background-color: darkcyan;
+    color: crimson;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.footer
+{
+    background-color: black;
+    color: crimson;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+}

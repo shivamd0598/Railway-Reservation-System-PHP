@@ -1,0 +1,149 @@
+
+body{
+    
+    background-color: darkcyan;
+    
+}
+
+
+#nav-item-active {
+    
+    background-color: black;
+    color: darkcyan;
+    
+}
+#nav-item:hover
+{
+    
+    background-color: mediumseagreen;
+    color: darkred;
+}
+.navbar-brand
+{
+    
+   
+    background-color: gray;
+    font-size:2em 
+}
+#nav-item {
+    
+    background-color: black;
+    color: crimson;
+    
+}
+
+#h-login
+{
+    
+    
+   text-align: center;
+    background-color: black;
+    width: 500px;
+    color: crimson;
+    
+}
+#login{
+    
+    background-color: black;
+    color: darkcyan;
+    margin-top: 30px;
+    
+    
+    
+}
+.carousel-control-prev-icon
+{
+    background-color: black;
+    height: 45px;
+    width: 49px;
+    border-radius:48px; 
+    
+}
+
+.carousel-control-prev-icon:hover
+{
+    background-color: darkcyan;
+    height: 75px;
+    width: 79px;
+    border-radius:78px;     
+
+}
+.carousel-control-next-icon
+{
+    background-color: black;
+    height: 45px;
+    width: 49px;
+    border-radius:48px; 
+    
+}
+
+.carousel-control-next-icon:hover
+{
+    background-color: darkcyan;
+    background-color: darkcyan;
+    height: 75px;
+    width: 79px;
+    border-radius:78px;     
+}
+#u-name
+{
+    
+    border-radius: 34px;
+    font-size: 32px;
+}
+
+#pass
+{
+    border-radius: 34px;
+    font-size: 32px;
+    margin-left: 2px;
+    
+}
+#l-pass
+{
+    margin-left: 30px;
+}
+#lgn-btn
+{
+    font-size: 28px;
+    background-color: darkgray;
+    color: crimson;
+    border: 2px solid darkcyan;
+    border-radius: 32px;
+    height: 55px;
+    width: 145px;
+}
+#lgn-btn:hover
+{
+    background-color: darkcyan;
+    text-decoration: underline;
+}
+#sign-btn
+{
+    font-size: 28px;
+    background-color: darkgray;
+    color: crimson;
+    border: 2px solid darkcyan;
+    border-radius: 32px;
+    height: 55px;
+    width: 145px;
+    margin-left: 390px;
+}
+#sign-btn:hover
+{
+    background-color: darkcyan;
+    text-decoration: underline;
+}
+
+#footer
+{
+    
+    
+   text-align: center;
+    background-color: black;
+    width: 500px;
+    color: crimson;
+    margin-top: 30px;
+    
+}
+

@@ -1,0 +1,361 @@
+body
+{
+    background-color: #6b6b47;
+    
+}
+
+#img1
+{
+    
+    border-radius:980px;
+    border: 5px solid darkgrey;
+    transition: 1s;
+}
+#img1:hover
+{
+    transform: rotate(360deg);
+}
+#img2
+{
+    
+    border-radius:980px;
+    border: 5px solid darkgrey;
+    transition: 1s;
+}
+
+#img2:hover
+{
+    transform: rotate(360deg);
+}
+#img3
+{
+    
+    border-radius:980px;
+    border: 5px solid darkgrey;
+    transition: 1s;
+}
+#img3:hover
+{
+    transform: rotate(360deg);
+}
+#p1
+{
+    
+    margin-left: 120px;
+    font-size: 2em;
+  
+}
+#p2
+{
+    
+   margin-left: 120px;
+    font-size: 2em;
+}
+#p3
+{
+    
+   margin-left: 120px;
+    font-size: 2em;
+}
+
+.row
+{
+    
+    margin-top: 30px;
+}
+.jumbotron
+{
+    
+    background-color: mediumseagreen;
+    margin-top: 30px;
+}
+
+#explore
+{
+    
+    text-align: center;
+    background-color: black;
+    width: 500px;
+    color: crimson;
+}
+#service
+{
+    text-align: center;
+    background-color: black;
+    width: 500px;
+    color: crimson;
+}
+#img1-cap
+{
+    
+   background-color: black;
+    color: aqua;
+    font-size: 2em;
+    
+}
+#img2-cap
+{
+    
+  background-color: black;
+    color: aqua;
+    font-size: 2em;
+    
+}
+#img3-cap
+{
+    
+    background-color: black;
+    color: aqua;
+    font-size: 2em;
+    
+}
+#reviews
+{
+    
+    
+   text-align: center;
+    background-color: black;
+    width: 500px;
+    color: crimson;
+    
+}
+
+
+#rimg1-cap
+{
+    
+    background-color: black;
+    color: darkcyan;
+    font-size: 2em;
+    border-radius: 28px;
+    border: 2px solid darkgray;
+}
+#rimg3-cap
+{
+    
+   
+    background-color: black;
+    color: darkcyan;
+    font-size: 2em;
+    border-radius: 28px;
+    border: 2px solid darkgray;
+}
+#rimg2-cap
+{
+    
+     background-color: black;
+    color: hotpink;
+    font-size: 2em;
+    border-radius: 28px;
+    border: 2px solid darkgray;
+}
+#nav-item {
+    
+    background-color: black;
+    color: crimson;
+    
+}
+.outer{
+    
+  
+    background-color: black;
+    color: darkcyan;
+    
+}
+#outer-h1
+{
+    margin-left: 650px;
+}
+#nav-item-active {
+    
+    background-color: black;
+    color: darkcyan;
+    
+}
+#nav-item:hover
+{
+    
+    background-color: mediumseagreen;
+    color: darkred;
+}
+.navbar-brand
+{
+    
+   
+    background-color: gray;
+    font-size:2em 
+}
+
+#services
+{
+    
+    background-color:black;
+    color: crimson;
+    
+}
+
+#fig-1:hover
+{
+    height: 400px;
+    width:400px;
+}
+#r-fig1:hover
+{
+    height: 400px;
+    width:400px;
+}
+#fig-2:hover
+{
+    height: 400px;
+    width:400px;
+}
+#r-fig2:hover
+{
+    height: 400px;
+    width:400px;
+}
+#fig-3:hover
+{
+    height: 400px;
+    width:400px;
+}
+#r-fig3:hover
+{
+    height: 400px;
+    width:400px;
+}
+
+#reach
+{
+    
+    
+   text-align: center;
+    background-color: black;
+    width: 500px;
+    color: crimson;
+    
+}
+#reach-us
+{
+    background-color: seagreen;
+    text-align: center;
+    font-size:3em;
+    color: #ffffff;
+}
+#t-name
+{
+    font-size: 32px;
+    border-radius: 32px;
+    
+}
+#sub-btn
+{
+    
+    font-size: 28px;
+    background-color: black;
+    color: darkcyan;
+    border-radius: 28px;
+    border: 2px solid darkgray;
+}
+
+#sub-btn:hover
+{
+    background-color: aqua;
+    color: crimson;
+    
+}
+#footer
+{
+    
+    
+   text-align: center;
+    background-color: black;
+    width: 500px;
+    color: crimson;
+    
+}
+#lgt-btn
+{
+    font-size: 28px;
+    background-color: darkgray;
+    color: crimson;
+    border: 2px solid darkcyan;
+    border-radius: 32px;
+    height: 55px;
+    width: 145px;
+}
+#lgt-btn:hover
+{
+    background-color: darkcyan;
+    text-decoration: underline;
+}
+.carousel-control-prev-icon
+{
+    background-color: black;
+    height: 45px;
+    width: 49px;
+    border-radius:48px; 
+    
+}
+
+.carousel-control-prev-icon:hover
+{
+    background-color: darkcyan;
+    height: 75px;
+    width: 79px;
+    border-radius:78px;     
+
+}
+.carousel-control-next-icon
+{
+    background-color: black;
+    height: 45px;
+    width: 49px;
+    border-radius:48px; 
+    
+}
+
+.carousel-control-next-icon:hover
+{
+    background-color: darkcyan;
+    background-color: darkcyan;
+    height: 75px;
+    width: 79px;
+    border-radius:78px;     
+}
+
+#Dropdown
+{
+    
+background-color: black;
+   color: crimson; 
+    
+}
+@media (max-width: 991.98px) 
+
+{ 
+    
+    #outer-h1
+{
+    margin-left: 370px;
+}
+
+}
+@media (max-width: 767.98px) { 
+    
+  { 
+margin-left: 200px;
+    }
+}
+
+
+@media (max-width: 575.98px) {
+    
+    
+       
+    #outer-h1
+{
+    margin-left: 190px;
+}
+    
+}
